@@ -25,10 +25,23 @@ b = 10
 
 # 3rd solution
 
-print("Before swap: a =", a, ", b =", b)
+# print("Before swap: a =", a, ", b =", b)
 
-a = a + b
-b = a - b
-a = a - b
+# a = a + b
+# b = a - b
+# a = a - b
 
-print("After swap: a =", a, ", b =", b)
+# print("After swap: a =", a, ", b =", b)
+
+
+
+#debug and predict output in python:
+#Q1:
+# x = 12
+# y = 5
+# print(x // y == x / y)
+
+# #Q2:
+# a = 7
+# b = 14
+# print((b / a) , 3 > 5)
